@@ -13,6 +13,6 @@ Use Python as a fully interactive SSH client
 
 # arp_scan.py
 
-Use Python to perform an ARP scan on your local subnet. The script finds hosts that are up
+Use Python to perform an ARP scan on your local subnet. The script finds the IP and MAC address of hosts that are up
 
 ![Screenshot](arp_scan.PNG)
