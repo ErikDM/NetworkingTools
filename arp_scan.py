@@ -1,5 +1,8 @@
-
+# ARP scanning tool
+# Author: ErikDM
+# Date: 21/09-2018
 # Example: sudo arp_scan.py 172.24.3.0/24
+
 import scapy.all as scapy
 import sys
 
