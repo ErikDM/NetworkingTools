@@ -1,6 +1,8 @@
 # A fully interactive python based SSH client
 # Author: ErikDM
 # Date: 04/01-2018
+# Developed for Linux
+# Usage: python3 ssh_client.py
 
 import paramiko, sys, getpass
 
