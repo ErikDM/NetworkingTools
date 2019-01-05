@@ -11,6 +11,14 @@ Use Python as a fully interactive SSH client
 
 ----------------------------------
 
+# ssh_brute.py
+
+Use Python to attack the SSH service on a target machine
+
+![Screenshot](ssh_brute.PNG)
+
+----------------------------------
+
 # arp_scan.py
 
 Use Python to perform an ARP scan on your local subnet. The script finds the IP and MAC address of hosts that are up
