@@ -1,5 +1,5 @@
 # NetworkingTools
-A summary of different networking tools
+A summary of different networking tools for all intents and purposes
 ---------------------------------
 
 # ssh_client.py
