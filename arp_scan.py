@@ -2,7 +2,7 @@
 # Author: ErikDM
 # Date: 21/09-2018
 # Developed for Linux
-# Usage: sudo arp_scan.py 172.24.3.0/24
+# Usage: sudo python arp_scan.py 172.24.3.0/24
 
 import scapy.all as scapy
 import sys
