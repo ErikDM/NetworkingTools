@@ -10,8 +10,8 @@ import sys
 try:
 	ip = sys.argv[1]
 except:
-	print("Usage: sudo arp_scan.py LOCAL-IP-RANGE")
-	exit()
+	print("Usage: sudo python arp_scan.py LOCAL-IP-RANGE")
+	sys.exit()
 
 def scan_network():
 	arp_request = scapy.ARP(pdst=ip)
