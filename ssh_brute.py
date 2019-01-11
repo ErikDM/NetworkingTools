@@ -5,7 +5,7 @@
 # Usage: python3 ssh_brute.py TargetIP Username /Path/To/Wordlist.txt
 
 from pexpect import pxssh
-import getpass, time, sys
+import time, sys
 
 print("\n###############\nSSH Brute Force\n###############\n")
 
