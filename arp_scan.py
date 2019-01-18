@@ -7,6 +7,10 @@
 import scapy.all as scapy
 import sys
 
+print("########")
+print("ARP SCAN")
+print("########\n")
+
 try:
 	ip = sys.argv[1]
 except:
