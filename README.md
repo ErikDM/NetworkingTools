@@ -6,7 +6,7 @@ A summary of different networking tools for all intents and purposes
 
 Use Python to crawl a webserver to find hidden directories using a wordlist
 
-![Screenshot](web_crawler.PNG)
+![Screenshot](web_crawler.PNG =250x250)
 
 
 ---------------------------------
