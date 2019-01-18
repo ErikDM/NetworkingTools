@@ -2,6 +2,15 @@
 A summary of different networking tools for all intents and purposes
 ---------------------------------
 
+# web_crawler.py
+
+Use Python to crawl a webserver to find hidden directories using a wordlist
+
+![Screenshot](web_crawler.PNG)
+
+
+---------------------------------
+
 # ssh_client.py
 
 Use Python as a fully interactive SSH client
