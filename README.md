@@ -1,7 +1,7 @@
 # NetworkingTools
-A summary of different networking tools for all intents and purposes
----------------------------------
 
+**A summary of different networking tools for all intents and purposes**
+------------------------
 # web_crawler.py
 
 Use Python to crawl a webserver to find hidden directories using a wordlist
